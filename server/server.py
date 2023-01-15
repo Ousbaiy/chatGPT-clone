@@ -1,6 +1,6 @@
 # Use the API key to create a client
 import openai
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 # import flask and CORS
